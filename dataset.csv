@@ -1,0 +1,359 @@
+id,immatriculation,type_avion,type_maintenance,composant,date,technicien,duree_heures,cout,statut,commentaire
+1,F-HTYH,A350-900,Inspection,Cabine,2025/12/23,Nicolas Petit,1.3,1664.0,Planifie,Verification oxygene passagers
+2,F-HTYB,A350-900,Corrective,Cabine,2025-06-09,Julien Moreau,4.9,3506.0,En cours,Verification oxygene passagers
+3,F-GKXD,A320-200,Inspection,Train d'atterrissage,2025-07-14,Amelie Rousseau,4.0,2639.0,Termine,Remplacement amortisseur
+4,F-HTYC,A350-900,Corrective,Cabine,2025-10-17,Thomas Girard,5.6,4341.0,Planifie,Verification oxygene passagers
+5,F-HTYR,A350-900,Corrective,HYDRAULIQUE,2025-11-23,Amelie Rousseau,9.0,8600.0,Termine,Fuite circuit hydraulique secondaire
+6,F-HRBA,B787-9,AOG,Hydraulique,2025-10-25, Sophie Bernard  ,12.3,9800.0,Termine,Remplacement joint
+7,F-HRBC,B787-9,Inspection,Avionique,15/10/2025,Thomas Girard,1.0,2458.0,Planifie,Verification systeme de navigation
+8,F-GSQA,B777-300,Corrective,Moteur,2025-10-09,Thomas Girard,12.8,23112.0,Termine,Controle periodique moteur
+9,F-HTYK,A350-900,Preventive,Moteur,2025/12/04,Nicolas Petit,9.0,9746.0,Termine,Controle periodique moteur
+10,F-HRBC,B787-9,Preventive,Train d'atterrissage,2025-08-08,Sophie Bernard,2.3,5935.0,Termine,Inspection freins carbone
+11,F-GKXB,A320-200,Corrective,Moteur,2025/08/24,Nicolas Petit,9.1,15067.0,Termine,Inspection boroscopique
+12,F-GKXC,A320-200,Corrective,Avionique,2025-07-07,,5.4,4700.0,Termine,Verification systeme de navigation
+13,F-GKXB,A320-200,Corrective,Hydraulique,2025-11-03,Laura Fontaine,7.6,5806.0,Termine,Controle circuit hydraulique
+14,F-GSQB,B777-300,Preventive,Cabine,29/08/2025,Laura Fontaine,1.7,872.0,Termine,Verification oxygene passagers
+15,F-HTYH,A350-900,Preventive,Hydraulique,2025/11/11,Amelie Rousseau,6.0,4900.0,Termine,Controle circuit hydraulique
+16,F-GSQC,B777-300,Corrective,Fuselage,2025-12-11,Amelie Rousseau,-13.7,10100.0,Planifie,Reparation revetement
+17,F-GKXC,A320-200,Preventive,Avionique,2025-08-20,Amelie Rousseau,2.6,4372.0,Planifie,Mise a jour logiciel FMS
+18,F-HRBA,B787-9,Corrective,Avionique,2025-12-12,Laura Fontaine,7.5,4486.0,Termine,Verification systeme de navigation
+19,F-GSQB,B777-300,Inspection,Fuselage,2025-09-19, Julien Moreau  ,3.8,7811.0,Termine,Reparation revetement
+20,F-GSQC,B777-300,Corrective,TRAIN D'ATTERRISSAGE,2025-06-19,Nicolas Petit,17.8,15119.0,Termine,Inspection freins carbone
+21,F-GSQA,B777-300,Corrective,Avionique,2025-08-18,Laura Fontaine,9.0,7292.0,Termine,Mise a jour logiciel FMS
+22,F-HTYR,A350-900,Preventive,Avionique,2025-10-31,Julien Moreau,2.7,2682.0,Termine,Test radar meteo
+23,F-HRBA,B787-9,Inspection,Fuselage,2025-10-19,Thomas Girard,1.0,3845.0,Termine,Inspection structurale
+24,F-GSQA,B777-300,Corrective,Hydraulique,2025-09-03,Julien Moreau,7.8,8817.0,Termine,Remplacement joint
+25,F-HTYI,A350-900,Preventive,Moteur,19/12/2025,Nicolas Petit,7.0,8392.0,Termine,Remplacement filtre a huile
+26,F-HRBB,B787-9,Corrective,Moteur,31.07.2025,Amelie Rousseau,14.1,17175.0,Termine,Remplacement filtre a huile
+27,F-GKXB,A320-200,AOG,Train d'atterrissage,2025-09-06,Amelie Rousseau,15.0,13695.0,Planifie,Controle pneus
+28,F-GSQC,B777-300,Corrective,Avionique,2025-08-16,Claire Dubois,6.5,5110.0,Planifie,Test radar meteo
+29,F-GSQA,B777-300,Preventive,Hydraulique,2025-11-20,Claire Dubois,7.7,2453.0,Termine,Test pression circuit
+30,F-HTYA,A350-900,Inspection,Moteur,2025-06-09,Marc Lefevre,2.6,10700.0,Termine,Remplacement filtre a huile
+31,F-HTYK,A350-900,Corrective,Fuselage,24.09.2025,Thomas Girard,17.5,8457.0,Planifie,Inspection structurale
+32,F-HRBB,B787-9,Corrective,Hydraulique,2025-11-22,Nicolas Petit,,8430.0,Termine,Test pression circuit
+33,F-GKXC,A320-200,Inspection,Hydraulique,2025-07-11,Nicolas Petit,1.2,1148.0,Termine,Remplacement joint
+34,F-HRBC,B787-9,preventive,Moteur,2025-07-25,Julien Moreau,7.8,14543.0,En cours,Inspection boroscopique
+35,F-HTYH,A350-900,Inspection,Avionique,2025-12-12,Julien Moreau,1.0,2793.0,En cours,Test radar meteo
+36,F-HTYI,A350-900,Inspection,Avionique,2025-12-17,Amelie Rousseau,3.0,1800.0,Termine,Verification systeme ACARS
+37,F-GSQA,B777-300,Inspection,Fuselage,2025-12-08,Marc Lefevre,21.599999999999998,3729.0,Planifie,Controle corrosion
+38,F-GKXC,A320-200,Corrective,Fuselage,2025-11-13,Sophie Bernard,9.1,11177.0,Termine,Controle corrosion
+39,F-HTYC,A350-900,Corrective,Hydraulique,2025-10-11,Marc Lefevre,8.9,7947.0,En cours,Controle circuit hydraulique
+40,F-HTYI,A350-900,Preventive,Fuselage,25-01-2026,Marc Lefevre,6.0,3400.0,Planifie,Traitement anticorrosion
+41,F-GKXD,A320-200,AOG,TRAIN D'ATTERRISSAGE,2025-11-26,Laura Fontaine,11.7,,Termine,Inspection freins carbone
+42,F-HTYI,A350-900,Preventive,Fuselage,2025-11-26,Julien Moreau,5.9,7506.0,Termine,Controle corrosion
+43,F-GSQC,B777-300,Preventive,Hydraulique,2025-09-24,Thomas Girard,3.0,4630.0,Planifie,Controle circuit hydraulique
+44,F-GSQB,B777-300,Inspection,Avionique,2025-10-09,Thomas Girard,1.8,1085.0,En cours,Verification systeme de navigation
+45,F-GKXA,A320-200,Preventive,Moteur,2025-10-11, Sophie Bernard  ,3.8,13170.0,En cours,Remplacement filtre a huile
+46,F-HRBB,B787-9,AOG,Moteur,16/09/2025,Julien Moreau,20.4,23692.0,En cours,Inspection boroscopique
+47,F-HTYI,A350-900,AOG,Hydraulique,2025-10-11,Sophie Bernard,10.6,9624.0,Termine,Remplacement joint
+48,F-HTYM,A350-900,Preventive,Avionique,2025-11-20,Thomas Girard,4.0,2500.0,Termine,Mise a jour logicielle FMS
+49,F-HTYM,A350-900,Inspection,Avionique,2025-12-08,Nicolas Petit,1.0,2121.0,Termine,Mise a jour logiciel FMS
+50,F-HUVC,A350-900,Corrective,Avionique,2025-12-02,Thomas Girard,8.0,7100.0,Termine,Panne radar meteo
+51,F-GKXA,A320-200,Inspection,Avionique,2025-09-03,Thomas Girard,1.7,1695.0,Termine,Test radar meteo
+52,F-GKXD,A320-200,Preventive,Hydraulique,26.09.2025,Sophie Bernard,6.9,2974.0,Termine,Test pression circuit
+53,F-HRBC,B787-9,Inspection,Train d'atterrissage,2025-06-01,Nicolas Petit,4.0,4007.0,Termine,Inspection freins carbone
+54,F-HTYM,A350-900,Inspection,Fuselage,2025-12-06,Laura Fontaine,5.0,1789.0,Planifie,Reparation revetement
+55,F-GSQA,B777-300,Inspection,Hydraulique,2025-09-11,Amelie Rousseau,2.4,2139.0,Termine,Test pression circuit
+56,F-HTYR,A350-900,Preventive,Avionique,2025-08-26,Laura Fontaine,4.3,5071.0,Termine,Test radar meteo
+57,F-HRBA,B787-9,AOG,Avionique,2025-12-19,Thomas Girard,7.7,9553.0,Termine,Verification systeme de navigation
+58,F-HTYM,A350-900,Inspection,,2025-10-16,Julien Moreau,3.4,2714.0,Termine,Mise a jour logiciel FMS
+59,F-HTYC,A350-900,Corrective,Cabine,2025-10-21,Claire Dubois,4.5,3893.0,Termine,Controle eclairage cabine
+60,F-HRBA,B787-9,Preventive,Hydraulique,2025-06-15,Nicolas Petit,4.8,6096.0,Termine,Test pression circuit
+61,F-GSQA,B777-300,Preventive,Fuselage,2025-07-09,Amelie Rousseau,1.7,3836.0,Termine,Inspection structurale
+62,F-HTYC,A350-900,Preventive,Fuselage,2025-12-15,Claire Dubois,6.9,6303.0,Termine,Reparation revetement
+63,F-GKXD,A320-200,Preventive,CABINE,2025-08-03,Thomas Girard,3.5,2159.0,Termine,Maintenance sieges
+64,F-HTYM,A350-900,Inspection,Fuselage,2025-11-23,Laura Fontaine,4.9,3892.0,Termine,Controle corrosion
+65,F-HRBC,B787-9,AOG,Train d'atterrissage,2025-06-30,Marc Lefevre,13.0,17344.0,Termine,Inspection freins carbone
+66,F-GSQB,B777-300,Preventive,Train d'atterrissage,2025-06-28,Nicolas Petit,5.8,4392.0,Planifie,Remplacement amortisseur
+67,F-GKXB,A320-200,Preventive,Avionique,2025-07-26,Claire Dubois,3.0,3861.0,Termine,Mise a jour logiciel FMS
+68,F-HTYC,A350-900,Corrective,Train d'atterrissage,2025-11-08,Thomas Girard,13.0,17600.0,Termine,Remplacement amortisseur principal
+69,F-GSQB,B777-300,Corrective,Cabine,2025-12-23,Laura Fontaine,4.7,3296.0,En cours,Verification oxygene passagers
+70,F-GKXB,A320-200,Inspection,Avionique,2025-08-03,Julien Moreau,2.3,849.0,Termine,Verification systeme de navigation
+71,F-GKXB,A320-200,Preventive,Avionique,2025-10-20,,3.2,2252.0,Termine,Test radar meteo
+72,F-HRBC,B787-9,Corrective,Moteur,2025-08-13,Amelie Rousseau,9.2,22813.0,Termine,Controle periodique moteur
+73,F-GKXA,A320-200,Corrective,Hydraulique,2025-08-30,Amelie Rousseau,7.8,8850.0,Termine,Controle circuit hydraulique
+74,F-HRBA,B787-9,Corrective,Hydraulique,2025-09-22,Sophie Bernard,6.0,6292.0,Planifie,Test pression circuit
+75,F-HRBA,B787-9,AOG,Train d'atterrissage,2025-08-21,Nicolas Petit,13.8,15798.0,En cours,Inspection freins carbone
+76,F-HRBA,B787-9,Inspection,Avionique,2025-08-03, Laura Fontaine  ,2.9,4714.0,Termine,Verification systeme de navigation
+77,F-GKXC,A320-200,Corrective,Fuselage,2025-11-12,Sophie Bernard,5.0,8405.0,Termine,Reparation revetement
+78,F-HTYT,A350-900,Preventive,Hydraulique,2025-06-02,Julien Moreau,4.4,3707.0,En cours,Controle circuit hydraulique
+79,F-HRBB,B787-9,inspection,Fuselage,2025-10-23,Laura Fontaine,5.5,2798.0,Termine,Reparation revetement
+80,F-GKXC,A320-200,Preventive,Cabine,2025-07-01,Amelie Rousseau,2.0,1730.0,Termine,Controle eclairage cabine
+81,F-HTYA,A350-900,Corrective,Fuselage,2026-01-13,Marc Lefevre,,6500.0,En cours,Reparation impact sur volet
+82,F-GKXB,A320-200,Preventive,Cabine,2025-09-07,Nicolas Petit,1.4,2235.0,Termine,Controle eclairage cabine
+83,F-GSQC,B777-300,Corrective,Train d'atterrissage,15-08-2025,Sophie Bernard,11.0,12432.0,Termine,Inspection freins carbone
+84,F-GKXC,A320-200,Preventive,Hydraulique,2025-06-19,Claire Dubois,4.0,5070.0,Termine,Test pression circuit
+85,F-GSQA,B777-300,corrective,Fuselage,2025-09-29, Laura Fontaine  ,10.8,11128.0,Planifie,Controle corrosion
+86,F-HTYK,A350-900,AOG,Train d'atterrissage,2025-11-29,Nicolas Petit,12.6,18338.0,Termine,Remplacement amortisseur
+87,F-HRBC,B787-9,preventive,Fuselage,2025-11-29,Amelie Rousseau,6.8,6307.0,Termine,Controle corrosion
+88,F-GKXD,A320-200,AOG,Fuselage,2025-07-25,Claire Dubois,9.1,15438.0,Termine,Reparation revetement
+89,F-HTYI,A350-900,Preventive,Train d'atterrissage,2025-07-30,Claire Dubois,3.9,8266.0,Termine,Controle pneus
+90,F-GSQC,B777-300,Preventive,Hydraulique,2025-09-24,Thomas Girard,3.0,4630.0,Planifie,Controle circuit hydraulique
+91,F-HTYI,A350-900,Corrective,Moteur,2025-11-14,Marc Lefevre,21.0,31200.0,Termine,Remplacement module turbine Trent XWB
+92,F-GKXC,A320-200,Preventive,Fuselage,2025-12-14,Nicolas Petit,7.2,4030.0,En cours,Reparation revetement
+93,F-GKXC,A320-200,Preventive,Moteur,2025-08-29,Julien Moreau,8.2,8830.0,Planifie,Controle periodique moteur
+94,F-HTYM,A350-900,Inspection,Avionique,2025-10-16,Julien Moreau,3.4,2714.0,Termine,Mise a jour logiciel FMS
+95,F-HTYC,A350-900,Inspection,Train d'atterrissage,2026-01-19,Thomas Girard,5.0,,Planifie,Controle usure freins carbone
+96,F-GSQC,B777-300,Corrective,Cabine,2025-09-09,Thomas Girard,,2636.0,Planifie,Controle eclairage cabine
+97,F-HTYH,A350-900,inspection,Moteur,2025-12-26,Amelie Rousseau,1.5,5039.0,Termine,Controle periodique moteur
+98,F-HTYB,A350-900,Corrective,MOTEUR,2025-12-08,Marc Lefevre,17.0,23800.0,Termine,Remplacement aube de soufflante
+99,F-GKXD,A320-200,Corrective,Fuselage,12.06.2025,Marc Lefevre,13.9,8302.0,Termine,Controle corrosion
+100,F-HTYH,A350-900,Corrective,Avionique,2026-01-22,Amelie Rousseau,8.0,6000.0,Planifie,Panne systeme de communication
+101,F-HRBA,B787-9,Corrective,Moteur,2025-08-27,Laura Fontaine,10.5,14298.0,Termine,Controle periodique moteur
+102,F-GSQB,B777-300,Corrective,Avionique,2025-07-12,,6.9,5496.0,En cours,Mise a jour logiciel FMS
+103,F-GSQC,B777-300,Inspection,FUSELAGE,2025-07-07,Sophie Bernard,4.9,4084.0,Termine,Reparation revetement
+104,F-GKXD,A320-200,Preventive,Moteur,2025-07-01,Claire Dubois,5.9,13579.0,Termine,Inspection boroscopique
+105,F-GKXC,A320-200,preventive,Fuselage,2025-11-14,Thomas Girard,9.8,6740.0,Termine,Controle corrosion
+106,F-HRBA,B787-9,Preventive,Fuselage,2025-08-14,Marc Lefevre,7.4,4764.0,Termine,Inspection structurale
+107,F-HRBB,B787-9,Corrective,Cabine,2025-06-23,Sophie Bernard,4.6,4685.0,Planifie,Controle eclairage cabine
+108,F-GSQA,B777-300,preventive,Fuselage,2025-11-21,Nicolas Petit,,4713.0,Termine,Reparation revetement
+109,F-HTYB,A350-900,Inspection,Train d'atterrissage,2025-12-19,Nicolas Petit,8.3,5926.0,Termine,Inspection freins carbone
+110,F-GKXC,A320-200,Corrective,Hydraulique,2025-07-28,Amelie Rousseau,6.0,4931.0,Planifie,Remplacement joint
+111,F-GSQB,B777-300,Corrective,Hydraulique,2025-11-13,Marc Lefevre,6.6,7765.0,Termine,Controle circuit hydraulique
+112,F-HRBB,B787-9,Preventive,Avionique,2025-07-27,Nicolas Petit,7.7,3745.0,Termine,Test radar meteo
+113,F-GSQB,B777-300,Corrective,Hydraulique,2025-12-21,Amelie Rousseau,7.5,7377.0,Termine,Test pression circuit
+114,F-GKXD,A320-200,Inspection,Hydraulique,2025-09-07,Amelie Rousseau,3.8,1363.0,En cours,Remplacement joint
+115,F-GKXA,A320-200,Inspection,Avionique,2025-08-25,Amelie Rousseau,9.0,850.0,Termine,Mise a jour logiciel FMS
+116,F-HRBA,B787-9,Preventive,Hydraulique,2025-06-20,Laura Fontaine,3.3,3613.0,Termine,Remplacement joint
+117,F-GKXD,A320-200,Inspection,Fuselage,2025-06-18,Marc Lefevre,2.4,2013.0,Termine,Inspection structurale
+118,F-GSQC,B777-300,Corrective,Cabine,2025-06-27,Julien Moreau,4.0,2258.0,Planifie,Maintenance sieges
+119,F-GKXC,A320-200,corrective,Avionique,2025-08-17,Julien Moreau,6.1,3710.0,Termine,Test radar meteo
+120,F-HRBC,B787-9,Corrective,Moteur,2025-06-21,Laura Fontaine,15.5,22447.0,Termine,Remplacement filtre a huile
+121,F-HRBC,B787-9,Corrective,Train d'atterrissage,2025-11-16,,14.3,9382.0,Termine,Controle pneus
+122,F-GSQC,B777-300,Corrective,Cabine,2025-11-03,Marc Lefevre,2.0,3444.0,Termine,Verification oxygene passagers
+123,F-GSQB,B777-300,Preventive,Train d'atterrissage,2025-12-23,Laura Fontaine,7.1,4668.0,Termine,Inspection freins carbone
+124,F-HRBC,B787-9,Preventive,Cabine,2025-11-01,Amelie Rousseau,2.0,2145.0,Termine,Maintenance sieges
+125,F-GSQC,B777-300,Inspection,Hydraulique,2025-07-30,Sophie Bernard,6.2,300.0,Termine,Remplacement joint
+126,F-GKXA,A320-200,Corrective,Train d'atterrissage,2025-09-22,Nicolas Petit,75.60000000000001,13148.0,Termine,Controle pneus
+127,F-HRBB,B787-9,Corrective,Cabine,2025-06-25,Sophie Bernard,3.1,3125.0,Termine,Verification oxygene passagers
+128,F-HRBA,B787-9,Inspection,Moteur,2025-12-08,Claire Dubois,1.5,14323.0,Termine,Inspection boroscopique
+129,F-GKXA,A320-200,Corrective,Moteur,2025-06-15, Nicolas Petit  ,15.5,19857.0,Termine,Inspection boroscopique
+130,F-GSQB,B777-300,Preventive,Moteur,2025-11-02,Julien Moreau,12.9,6370.0,Termine,Inspection boroscopique
+131,F-GKXA,A320-200,Inspection,Hydraulique,2025-10-15,Thomas Girard,1.1,2233.0,Termine,Test pression circuit
+132,F-GSQA,B777-300,Preventive,Fuselage,2025-09-14,Sophie Bernard,4.5,3475.0,Termine,Controle corrosion
+133,F-GKXB,A320-200,Inspection,Fuselage,2025-10-06,Sophie Bernard,7.6,3105.0,Termine,Controle corrosion
+134,F-HRBA,B787-9,Corrective,Avionique,2025-12-15,Marc Lefevre,8.6,4723.0,Planifie,Verification systeme de navigation
+135,F-GSQC,B777-300,AOG,Hydraulique,2025-11-01,Laura Fontaine,11.7,14816.0,Termine,Controle circuit hydraulique
+136,F-HRBC,B787-9,AOG,FUSELAGE,2025-12-25,Marc Lefevre,20.1,15679.0,Termine,Reparation revetement
+137,F-HRBC,B787-9,Corrective,Fuselage,2025-07-05,Claire Dubois,12.4,11168.0,Termine,Controle corrosion
+138,F-HTYT,A350-900,Inspection,Fuselage,2025-12-07,Sophie Bernard,4.4,6082.0,Termine,Inspection structurale
+139,F-GKXD,A320-200,Preventive,Train d'atterrissage,2025-09-05,Amelie Rousseau,7.4,11423.0,Termine,Inspection freins carbone
+140,F-GSQB,B777-300,Preventive,Fuselage,2025-09-10,Claire Dubois,12.5,5662.0,Termine,Reparation revetement
+141,F-HTYI,A350-900,Preventive,Cabine,2025-10-22,Laura Fontaine,3.1,1424.0,Planifie,Controle eclairage cabine
+142,F-HRBC,B787-9,Corrective,Fuselage,2025/07/05,Claire Dubois,12.4,11168.0,Termine,Controle corrosion
+143,F-GKXD,A320-200,Preventive,Train d'atterrissage,2025-11-11,Sophie Bernard,4.5,6071.0,En cours,Controle pneus
+144,F-GSQA,B777-300,Inspection,Moteur,2025-10-16,Sophie Bernard,5.9,4000.0,Termine,Inspection boroscopique
+145,F-HTYH,A350-900,AOG,Avionique,2025-06-07,Thomas Girard,7.9,,Planifie,Verification systeme de navigation
+146,F-HTYT,A350-900,Inspection,Cabine,2025-11-22,Nicolas Petit,1.0,,Termine,Maintenance sieges
+147,F-GSQB,B777-300,Inspection,Moteur,2025-12-08,Nicolas Petit,1.0,300.0,Planifie,Remplacement filtre a huile
+148,F-HRBB,B787-9,AOG,Avionique,2025-06-24,,8.2,9125.0,Termine,Verification systeme de navigation
+149,F-GSQC,B777-300,Preventive,Moteur,2025-09-24,Claire Dubois,8.3,8494.0,Termine,Controle periodique moteur
+150,F-HRBB,B787-9,Preventive,Train d'atterrissage,2025-09-06,Sophie Bernard,10.2,8927.0,Termine,Remplacement amortisseur
+151,F-GSQC,B777-300,Preventive,Avionique,2025-09-15,Julien Moreau,2.5,4120.0,Termine,Verification systeme de navigation
+152,F-GKXC,A320-200,Preventive,Fuselage,2025-09-27,Claire Dubois,6.8,6630.0,Termine,Reparation revetement
+153,F-GKXD,A320-200,Corrective,Moteur,2025-08-25,Marc Lefevre,15.4,21804.0,Termine,Controle periodique moteur
+154,F-HRBB,B787-9,Corrective,Moteur,06-11-2025,Sophie Bernard,12.9,16091.0,Termine,Remplacement filtre a huile
+155,F-GKXC,A320-200,Preventive,AVIONIQUE,2025-09-29,Julien Moreau,4.2,50148.0,Planifie,Test radar meteo
+156,F-GKXB,A320-200,Corrective,Train d'atterrissage,2025-12-03,Amelie Rousseau,11.2,8633.0,Termine,Inspection freins carbone
+157,F-HRBC,B787-9,Inspection,Train d'atterrissage,2025-12-20, Marc Lefevre  ,36.9,3141.0,En cours,Controle pneus
+158,F-GSQA,B777-300,Preventive,Train d'atterrissage,2025-12-10,Julien Moreau,6.3,10720.0,Termine,Remplacement amortisseur
+159,F-HRBB,B787-9,Corrective,Avionique,2025-12-22,Laura Fontaine,6.1,7107.0,Termine,Test radar meteo
+160,F-HTYA,A350-900,preventive,Train d'atterrissage,2025-08-26,Amelie Rousseau,3.4,4229.0,Termine,Controle pneus
+161,F-GSQB,B777-300,Corrective,Avionique,2025-08-17,Julien Moreau,7.0,5837.0,Planifie,Test radar meteo
+162,F-GSQB,B777-300,Corrective,Cabine,2025-08-09,Sophie Bernard,3.7,5200.0,En cours,Controle eclairage cabine
+163,F-GSQC,B777-300,Preventive,Hydraulique,2025-10-04, Amelie Rousseau  ,1.4,3561.0,En cours,Controle circuit hydraulique
+164,F-GKXA,A320-200,Corrective,Hydraulique,2025-07-23,Sophie Bernard,8.5,8923.0,Planifie,Test pression circuit
+165,F-HUVB,A350-900,Inspection,,2025-11-29,Claire Dubois,5.0,3000.0,Termine,Controle usure freins carbone
+166,F-HTYB,A350-900,Preventive,Fuselage,2025-10-24,Amelie Rousseau,8.2,4471.0,Termine,Inspection structurale
+167,F-GKXA,A320-200,AOG,MOTEUR,2025-09-14,Marc Lefevre,22.8,26211.0,En cours,Controle periodique moteur
+168,F-GSQA,B777-300,Preventive,HYDRAULIQUE,2025-07-07, Laura Fontaine  ,2.6,3582.0,Termine,Remplacement joint
+169,F-HTYB,A350-900,Inspection,Hydraulique,2025-11-25,Julien Moreau,1.5,1683.0,Termine,Remplacement joint
+170,F-GKXC,A320-200,Corrective,Train d'atterrissage,2025-12-21,Nicolas Petit,10.5,10730.0,Termine,Inspection freins carbone
+171,F-GSQC,B777-300,Preventive,Hydraulique,17/08/2025,Marc Lefevre,5.3,3222.0,Planifie,Remplacement joint
+172,F-HRBC,B787-9,Preventive,Train d'atterrissage,2025-06-08,Claire Dubois,3.8,6880.0,Termine,Controle pneus
+173,F-HTYI,A350-900,Preventive,Train d'atterrissage,2025-06-23,Marc Lefevre,8.8,70824.0,Planifie,Inspection freins carbone
+174,F-GKXB,A320-200,Preventive,Avionique,2025-08-08,Julien Moreau,3.8,3120.0,En cours,Mise a jour logiciel FMS
+175,F-GKXD,A320-200,Corrective,Hydraulique,2025/12/17,Sophie Bernard,7.6,6724.0,Termine,Test pression circuit
+176,F-GKXC,A320-200,Preventive,Train d'atterrissage,2025-06-21,Amelie Rousseau,6.9,2791.0,Planifie,Remplacement amortisseur
+177,F-HTYK,A350-900,Corrective,Hydraulique,2025-12-20,Marc Lefevre,10.0,8900.0,Termine,Remplacement pompe hydraulique
+178,F-HTYR,A350-900,Corrective,Hydraulique,26-07-2025,Claire Dubois,9.1,5594.0,Termine,Controle circuit hydraulique
+179,F-GKXA,A320-200,Corrective,Train d'atterrissage,2025-12-28,Nicolas Petit,11.9,,Termine,Remplacement amortisseur
+180,F-GKXB,A320-200,Corrective,Train d'atterrissage,2025-09-28,Julien Moreau,11.6,13756.0,Termine,Inspection freins carbone
+181,F-GSQC,B777-300,Inspection,Train d'atterrissage,2025-09-11,Amelie Rousseau,5.4,8796.0,Termine,Inspection freins carbone
+182,F-HTYH,A350-900,corrective,Train d'atterrissage,2025/12/14,Thomas Girard,-11.0,9800.0,Termine,Remplacement pneu principal
+183,F-GKXC,A320-200,Inspection,Moteur,2025-10-10,,4.0,7164.0,Termine,Controle periodique moteur
+184,F-HTYI,A350-900,Preventive,Moteur,2025/09/22,Claire Dubois,8.8,8035.0,Termine,Inspection boroscopique
+185,F-GKXA,A320-200,Preventive,Cabine,2025-06-27,Amelie Rousseau,2.8,1914.0,Termine,Verification oxygene passagers
+186,F-GKXA,A320-200,Preventive,Avionique,2025-09-14,Sophie Bernard,3.1,4450.0,Termine,Test radar meteo
+187,F-GKXD,A320-200,Preventive,Fuselage,2025-07-25, Sophie Bernard  ,9.8,4590.0,Termine,Controle corrosion
+188,F-HTYI,A350-900,Corrective,Moteur,2025-06-27,Sophie Bernard,8.2,17502.0,Termine,Inspection boroscopique
+189,F-HTYH,A350-900,Corrective,Hydraulique,2025-07-15,Nicolas Petit,4.3,6967.0,Termine,Test pression circuit
+190,F-GSQB,B777-300,Corrective,Cabine,2025-06-30,Sophie Bernard,2.6,3237.0,Planifie,Controle eclairage cabine
+191,F-GSQC,B777-300,Preventive,Fuselage,2025-12-11,Marc Lefevre,8.3,4613.0,Termine,Reparation revetement
+192,F-HTYB,A350-900,Inspection,Avionique,2025-11-05,Claire Dubois,4.0,3100.0,Termine,Verification systeme de navigation
+193,F-GKXC,A320-200,Preventive,Fuselage,2025-09-27,Claire Dubois,6.8,79560.0,Termine,Reparation revetement
+194,F-HRBC,B787-9,Corrective,Avionique,2025-06-05,Laura Fontaine,6.9,7231.0,Termine,Verification systeme de navigation
+195,F-HTYH,A350-900,Inspection,Hydraulique,06.09.2025,Sophie Bernard,3.6,2431.0,En cours,Remplacement joint
+196,F-HTYM,A350-900,Corrective,Moteur,07/07/2025,Thomas Girard,8.9,16318.0,Planifie,Controle periodique moteur
+197,F-HTYR,A350-900,Preventive,Train d'atterrissage,2025-10-14,Claire Dubois,7.3,5085.0,Termine,Controle pneus
+198,F-HTYT,A350-900,Preventive,Moteur,2025-11-26,Marc Lefevre,7.0,11500.0,Termine,Controle periodique moteur Trent XWB
+199,F-HTYR,A350-900,Inspection,Fuselage,2025-12-26,Thomas Girard,5.0,2600.0,Termine,Inspection structurelle programmee
+200,F-HTYA,A350-900,AOG,Fuselage,2025-09-30,Thomas Girard,13.9,13327.0,Termine,Controle corrosion
+201,F-HTYB,A350-900,Inspection,Fuselage,2025-11-19,Amelie Rousseau,3.4,1381.0,Termine,Reparation revetement
+202,F-HRBB,B787-9,AOG,Fuselage,2025-06-16,Julien Moreau,13.8,14269.0,Termine,Reparation revetement
+203,F-GSQB,B777-300,Corrective,Fuselage,2025-06-30,Claire Dubois,13.5,9257.0,En cours,Reparation revetement
+204,F-GKXC,A320-200,Preventive,Avionique,2025-07-15,Sophie Bernard,3.6,4693.0,En cours,Test radar meteo
+205,F-GSQC,B777-300,Preventive,Train d'atterrissage,2025-11-09,Claire Dubois,6.9,7228.0,Termine,Controle pneus
+206,F-HUVC,A350-900,Corrective,Moteur,2026-01-04, Claire Dubois  ,19.0,28600.0,Termine,Remplacement module compresseur
+207,F-HRBC,B787-9,AOG,Moteur,2025-10-26,Julien Moreau,,30771.0,Termine,Inspection boroscopique
+208,F-HTYT,A350-900,Corrective,Hydraulique,2025-06-21,Thomas Girard,10.1,6115.0,Termine,Test pression circuit
+209,F-HTYK,A350-900,Inspection,Fuselage,2025-11-17,Claire Dubois,5.0,2700.0,Termine,Inspection structurelle programmee
+210,F-GKXD,A320-200,AOG,Train d'atterrissage,2025-10-28,Amelie Rousseau,15.0,17887.0,En cours,Controle pneus
+211,F-GKXD,A320-200,Preventive,Cabine,19/07/2025,Claire Dubois,3.3,2582.0,Termine,Verification oxygene passagers
+212,F-HTYC,A350-900,Inspection,Fuselage,2025-10-10,Nicolas Petit,34.199999999999996,3228.0,En cours,Controle corrosion
+213,F-HRBC,B787-9,corrective,TRAIN D'ATTERRISSAGE,2025-11-20,Marc Lefevre,11.8,15155.0,Termine,Inspection freins carbone
+214,F-HTYM,A350-900,inspection,Hydraulique,2025-12-13,Marc Lefevre,1.0,2097.0,Planifie,Test pression circuit
+215,F-GSQA,B777-300,Preventive,Avionique,2025-09-30,Marc Lefevre,5.7,4446.0,Termine,Test radar meteo
+216,F-GKXC,A320-200,Corrective,Hydraulique,2025-06-03,Laura Fontaine,7.9,5923.0,Termine,Controle circuit hydraulique
+217,F-GSQA,B777-300,Inspection,Train d'atterrissage,23/09/2025,Laura Fontaine,1.0,4920.0,Planifie,Inspection freins carbone
+218,F-GKXB,A320-200,AOG,Fuselage,2025-11-07,Thomas Girard,12.1,16392.0,Termine,Reparation revetement
+219,F-GSQA,B777-300,Corrective,Cabine,2025-08-04,,5.2,3176.0,Termine,Maintenance sieges
+220,F-GSQA,B777-300,Preventive,Avionique,2025-10-11,Amelie Rousseau,3.2,2952.0,Termine,Mise a jour logiciel FMS
+221,F-GKXD,A320-200,Inspection,Moteur,2025-11-25,Claire Dubois,10.4,10614.0,Termine,Remplacement filtre a huile
+222,F-GKXB,A320-200,preventive,Fuselage,2025-10-01,Sophie Bernard,-7.5,6915.0,Planifie,Reparation revetement
+223,F-GKXB,A320-200,AOG,Train d'atterrissage,2025-08-14,Thomas Girard,10.9,14833.0,En cours,Controle pneus
+224,F-GKXD,A320-200,AOG,Fuselage,2025-07-25,Claire Dubois,9.1,15438.0,Termine,Reparation revetement
+225,F-GSQC,B777-300,Corrective,Hydraulique,2025-11-19,Sophie Bernard,8.4,9345.0,En cours,Test pression circuit
+226,F-HRBC,B787-9,Inspection,Fuselage,2025-09-06,Amelie Rousseau,4.1,4174.0,En cours,Controle corrosion
+227,F-GKXA,A320-200,corrective,Cabine,2025-08-19,Amelie Rousseau,4.0,2826.0,En cours,Verification oxygene passagers
+228,F-GSQA,B777-300,Inspection,Moteur,2025-11-02,Thomas Girard,3.3,8250.0,Termine,Controle periodique moteur
+229,F-HRBC,B787-9,Preventive,Moteur,2025-09-04,Sophie Bernard,8.3,13283.0,Termine,Controle periodique moteur
+230,F-HRBA,B787-9,Inspection,Moteur,2025-06-05,Laura Fontaine,5.0,4380.0,Termine,Inspection boroscopique
+231,F-GSQC,B777-300,inspection,Hydraulique,2025-08-20,Marc Lefevre,1.5,2602.0,Termine,Remplacement joint
+232,F-HTYB,A350-900,AOG,Hydraulique,2025-09-17,Julien Moreau,5.0,8720.0,Termine,Test pression circuit
+233,F-GKXB,A320-200,Corrective,Hydraulique,2025-08-19,Sophie Bernard,6.3,6598.0,Termine,Test pression circuit
+234,F-GSQC,B777-300,Corrective,Moteur,2025-11-29,Thomas Girard,15.6,20242.0,Termine,Remplacement filtre a huile
+235,F-HTYB,A350-900,Corrective,MOTEUR,2025-06-16, Claire Dubois  ,15.5,11861.0,Termine,Controle periodique moteur
+236,F-GKXC,A320-200,Corrective,Fuselage,2025-08-18,Nicolas Petit,10.3,10698.0,Termine,Controle corrosion
+237,F-GKXA,A320-200,Inspection,Train d'atterrissage,2025-09-19,Julien Moreau,1.0,40920.0,Termine,Remplacement amortisseur
+238,F-HRBC,B787-9,Inspection,Hydraulique,2025-12-10,Laura Fontaine,2.6,1871.0,Termine,Controle circuit hydraulique
+239,F-GKXB,A320-200,AOG,Avionique,2025-12-11,Claire Dubois,6.3,10683.0,En cours,Mise a jour logiciel FMS
+240,F-GSQC,B777-300,Preventive,Hydraulique,2025-12-19,Amelie Rousseau,6.7,5317.0,Planifie,Test pression circuit
+241,F-GKXC,A320-200,Preventive,Fuselage,2025-07-17,Nicolas Petit,3.6,8805.0,Termine,Reparation revetement
+242,F-HTYK,A350-900,Preventive,Moteur,2025-09-11,Marc Lefevre,5.3,6257.0,En cours,Remplacement filtre a huile
+243,F-GSQB,B777-300,Corrective,Cabine,2025-12-05,Laura Fontaine,3.2,3795.0,Termine,Controle eclairage cabine
+244,F-HTYM,A350-900,Inspection,Hydraulique,2025-09-25,Nicolas Petit,3.0,2337.0,Termine,Remplacement joint
+245,F-HTYH,A350-900,Inspection,Cabine,2025-10-14,Claire Dubois,2.3,995.0,Termine,Verification oxygene passagers
+246,F-HRBA,B787-9,Corrective,FUSELAGE,2025-08-24,Amelie Rousseau,13.3,9445.0,En cours,Inspection structurale
+247,F-GSQB,B777-300,Corrective,Moteur,2025-09-10,,8.1,19768.0,Planifie,Remplacement filtre a huile
+248,F-GKXB,A320-200,Inspection,Fuselage,2025-08-09,Thomas Girard,1.0,4050.0,Termine,Reparation revetement
+249,F-HRBC,B787-9,Corrective,Hydraulique,2025-12-16,Thomas Girard,9.0,8711.0,Termine,Remplacement joint
+250,F-GSQC,B777-300,Corrective,Moteur,2025-12-02,Amelie Rousseau,12.8,20794.0,Termine,Remplacement filtre a huile
+251,F-HTYH,A350-900,Corrective,Moteur,2025-09-15,Sophie Bernard,10.2,25025.0,Termine,Controle periodique moteur
+252,F-HRBB,B787-9,Corrective,Avionique,2025-11-21,,4.0,6911.0,Termine,Test radar meteo
+253,F-HRBB,B787-9,Corrective,Train d'atterrissage,2025-11-25,Thomas Girard,8.5,12067.0,Termine,Controle pneus
+254,F-HUVD,A350-900,Inspection,Avionique,2026-01-07,Thomas Girard,4.0,2300.0,En cours,Verification systeme de navigation
+255,F-GSQA,B777-300,Corrective,Cabine,2025-12-28,Nicolas Petit,5.3,3546.0,Termine,Maintenance sieges
+256,F-GKXC,A320-200,Inspection,Cabine,2025-11-08,Nicolas Petit,2.8,1503.0,Planifie,Verification oxygene passagers
+257,F-HRBC,B787-9,Preventive,Cabine,2025-11-11,Thomas Girard,2.8,2484.0,Termine,Controle eclairage cabine
+258,F-HTYB,A350-900,Preventive,Moteur,2026-01-16,Claire Dubois,7.0,11900.0,Planifie,Controle periodique moteur Trent XWB
+259,F-GSQA,B777-300,Preventive,Avionique,2025-10-13,Thomas Girard,5.9,2934.0,En cours,Verification systeme de navigation
+260,F-HRBB,B787-9,Inspection,Train d'atterrissage,2025-08-28,Sophie Bernard,8.1,8450.0,En cours,Remplacement amortisseur
+261,F-HTYC,A350-900,Preventive,Fuselage,2025-12-11,Claire Dubois,6.0,3300.0,Termine,Traitement anticorrosion
+262,F-HTYR,A350-900,Preventive,Cabine,2025-10-02,Julien Moreau,1.7,2135.0,Termine,Controle eclairage cabine
+263,F-HTYT,A350-900,Preventive,Avionique,2025-11-05,Sophie Bernard,3.0,3052.0,Termine,Test radar meteo
+264,F-GKXD,A320-200,Inspection,Moteur,2025-09-26, Amelie Rousseau  ,4.9,7914.0,Termine,Remplacement filtre a huile
+265,F-GSQB,B777-300,Inspection,Train d'atterrissage,2025-09-28,Sophie Bernard,,3633.0,En cours,Remplacement amortisseur
+266,F-GSQC,B777-300,Inspection,Train d'atterrissage,2025-07-04,Sophie Bernard,1.0,4958.0,Planifie,Controle pneus
+267,F-GKXB,A320-200,Preventive,Avionique,2025-07-29,Marc Lefevre,1.8,2790.0,Termine,Test radar meteo
+268,F-GSQB,B777-300,Preventive,Fuselage,2025-10-16,Marc Lefevre,5.9,6549.0,En cours,Inspection structurale
+269,F-GSQC,B777-300,Preventive,Train d'atterrissage,2025-07-16, Nicolas Petit  ,2.3,10641.0,En cours,Remplacement amortisseur
+270,F-GKXD,A320-200,Inspection,Hydraulique,2025-07-27,Claire Dubois,3.4,2247.0,Termine,Test pression circuit
+271,F-HTYB,A350-900,Preventive,Avionique,2025-10-31,Sophie Bernard,6.0,3624.0,Termine,Test radar meteo
+272,F-HTYR,A350-900,Preventive,,2025-12-03,Amelie Rousseau,6.8,7758.0,Planifie,Remplacement amortisseur
+273,F-GSQA,B777-300,Inspection,Fuselage,2025-11-06,Amelie Rousseau,7.5,987.0,Termine,Controle corrosion
+274,F-HUVT,A350-900,Preventive,Hydraulique,2026-01-10,Amelie Rousseau,5.0,3500.0,En cours,Controle circuit hydraulique
+275,F-HRBB,B787-9,Preventive,Avionique,2025-09-30, Thomas Girard  ,3.3,4024.0,En cours,Verification systeme de navigation
+276,F-HTYB,A350-900,Inspection,Cabine,2025-12-20,Thomas Girard,1.2,1323.0,Termine,Maintenance sieges
+277,F-HRBA,B787-9,Preventive,Train d'atterrissage,2025-09-18,Julien Moreau,6.6,3994.0,En cours,Inspection freins carbone
+278,F-HRBA,B787-9,Preventive,Train d'atterrissage,2025-09-16,Claire Dubois,2.7,10075.0,Termine,Inspection freins carbone
+279,F-HTYT,A350-900,Inspection,Cabine,2025-07-15,Marc Lefevre,2.0,544.0,Planifie,Controle eclairage cabine
+280,F-GKXC,A320-200,Corrective,Avionique,2025-10-22,Claire Dubois,6.6,7390.0,Termine,Mise a jour logiciel FMS
+281,F-GKXD,A320-200,Preventive,Moteur,2025-11-02,Amelie Rousseau,9.9,16531.0,Termine,Controle periodique moteur
+282,F-GSQC,B777-300,Preventive,Train d'atterrissage,2025-06-01,Nicolas Petit,5.0,11368.0,Termine,Inspection freins carbone
+283,F-HTYM,A350-900,Preventive,Train d'atterrissage,2025-09-18,Thomas Girard,8.9,6052.0,Termine,Inspection freins carbone
+284,F-GKXA,A320-200,Corrective,Train d'atterrissage,2025-12-01,Nicolas Petit,14.9,13666.0,Termine,Remplacement amortisseur
+285,F-GSQA,B777-300,Preventive,Cabine,2025-08-03,Marc Lefevre,2.6,2217.0,En cours,Maintenance sieges
+286,F-HRBB,B787-9,Corrective,Train d'atterrissage,2025-08-22, Nicolas Petit  ,,14518.0,Termine,Remplacement amortisseur
+287,F-HTYK,A350-900,Corrective,Moteur,2026-01-28,Claire Dubois,18.0,26900.0,Planifie,Remplacement aube de turbine
+288,F-GSQA,B777-300,Preventive,Fuselage,2025-10-17,Thomas Girard,9.2,6668.0,Planifie,Controle corrosion
+289,F-GKXB,A320-200,Corrective,Moteur,2025-11-01,Julien Moreau,9.4,21898.0,Planifie,Controle periodique moteur
+290,F-GSQA,B777-300,Preventive,Avionique,2025-06-04,Sophie Bernard,3.7,4403.0,Termine,Test radar meteo
+291,F-HRBC,B787-9,Preventive,Fuselage,2025-08-24,Amelie Rousseau,9.5,7972.0,Termine,Reparation revetement
+292,F-GSQB,B777-300,inspection,Train d'atterrissage,2025-10-17,Laura Fontaine,4.5,5168.0,Termine,Remplacement amortisseur
+293,F-HTYM,A350-900,corrective,Hydraulique,13/07/2025,Nicolas Petit,6.9,6768.0,Planifie,Remplacement joint
+294,F-HTYR,A350-900,Preventive,Fuselage,2025-10-09,Amelie Rousseau,7.3,4460.0,Planifie,Reparation revetement
+295,F-GKXB,A320-200,Corrective,Train d'atterrissage,2025-11-17,Sophie Bernard,14.9,12993.0,Termine,Remplacement amortisseur
+296,F-HTYA,A350-900,Inspection,HYDRAULIQUE,2025-08-14,Thomas Girard,3.4,4302.0,Planifie,Controle circuit hydraulique
+297,F-HTYR,A350-900,Corrective,Moteur,2025-11-04,Amelie Rousseau,16.5,17958.0,Planifie,Remplacement filtre a huile
+298,F-GSQA,B777-300,Corrective,Hydraulique,2025-11-11,Julien Moreau,8.5,6474.0,Termine,Remplacement joint
+299,F-HRBB,B787-9,inspection,Cabine,2025-06-10,,1.7,1791.0,Termine,Maintenance sieges
+300,F-HTYA,A350-900,Preventive,Moteur,2025-11-02,Marc Lefevre,7.0,11800.0,Termine,Controle periodique moteur Trent XWB
+301,F-GSQC,B777-300,Inspection,Moteur,2025-11-12,Marc Lefevre,8.9,6128.0,Termine,Inspection boroscopique
+302,F-GSQC,B777-300,Preventive,Avionique,2025-09-25,Thomas Girard,4.4,5935.0,Termine,Test radar meteo
+303,F-HTYB,A350-900,Corrective,Train d'atterrissage,2025-12-10,Sophie Bernard,10.3,,Termine,Remplacement amortisseur
+304,F-GSQB,B777-300,Inspection,Cabine,2025-12-19,Amelie Rousseau,1.0,335.0,Termine,Verification oxygene passagers
+305,F-GSQC,B777-300,Inspection,Avionique,2025-06-08,Nicolas Petit,2.9,2600.0,Termine,Mise a jour logiciel FMS
+306,F-HTYI,A350-900,AOG,Moteur,2025-07-03,Julien Moreau,19.4,27745.0,Termine,Inspection boroscopique
+307,F-HTYH,A350-900,Preventive,Moteur,2025-06-26,Sophie Bernard,6.0,11366.0,En cours,Inspection boroscopique
+308,F-GSQC,B777-300,Corrective,Hydraulique,2025-11-30,Julien Moreau,5.0,7086.0,Termine,Remplacement joint
+309,F-HRBC,B787-9,Preventive,Hydraulique,2025-10-14,Nicolas Petit,4.9,5368.0,Termine,Test pression circuit
+310,F-HTYA,A350-900,Inspection,Hydraulique,2025-12-05,Amelie Rousseau,4.0,2200.0,Termine,Controle pression circuit principal
+311,F-HRBA,B787-9,Corrective,Hydraulique,05/10/2025,Nicolas Petit,7.4,6058.0,Termine,Remplacement joint
+312,F-HRBA,B787-9,aog,Cabine,2025-11-29,Sophie Bernard,4.9,4504.0,Termine,Maintenance sieges
+313,F-HRBC,B787-9,Corrective,Fuselage,2025-08-12,Sophie Bernard,17.6,8385.0,Termine,Controle corrosion
+314,F-HRBA,B787-9,Preventive,Avionique,2025-10-24,Sophie Bernard,2.0,4353.0,Termine,Verification systeme de navigation
+315,F-HTYA,A350-900,Corrective,Train d'atterrissage,2025-07-21,Nicolas Petit,-10.7,14233.0,Termine,Controle pneus
+316,F-HRBC,B787-9,Inspection,Hydraulique,2025-08-21,Claire Dubois,1.1,2767.0,Termine,Test pression circuit
+317,F-GKXC,A320-200,Inspection,,2025-08-10,Sophie Bernard,6.0,4038.0,Termine,Inspection structurale
+318,F-HTYK,A350-900,Preventive,Fuselage,2025-12-13,Nicolas Petit,4.4,5267.0,Termine,Reparation revetement
+319,F-HTYT,A350-900,Corrective,Avionique,2025-12-29,Amelie Rousseau,7.0,5700.0,Termine,Remplacement calculateur de vol
+320,F-GSQB,B777-300,Inspection,Train d'atterrissage,2025-09-28,Sophie Bernard,3.4,3633.0,En cours,Remplacement amortisseur
+321,F-GKXC,A320-200,AOG,Moteur,2025-09-29,,21.5,28236.0,Termine,Controle periodique moteur
+322,F-HRBA,B787-9,Inspection,Train d'atterrissage,2025-09-11,Nicolas Petit,6.9,5713.0,Termine,Remplacement amortisseur
+323,F-HRBB,B787-9,Preventive,Cabine,2025-11-21,Laura Fontaine,1.6,1963.0,Planifie,Verification oxygene passagers
+324,F-HTYR,A350-900,Inspection,Fuselage,24-11-2025,Marc Lefevre,6.1,4075.0,Termine,Inspection structurale
+325,F-HTYM,A350-900,Preventive,Moteur,2025-12-23,Claire Dubois,7.0,12200.0,Termine,Controle periodique moteur Trent XWB
+326,F-HRBA,B787-9,Preventive,Avionique,2025-10-17,Marc Lefevre,5.2,5126.0,Termine,Verification systeme de navigation
+327,F-HRBA,B787-9,Corrective,Cabine,2025-08-30,Laura Fontaine,2.4,3465.0,Termine,Verification oxygene passagers
+328,F-HRBA,B787-9,Preventive,FUSELAGE,2025-07-20,Laura Fontaine,2.6,7969.0,Planifie,Controle corrosion
+329,F-HTYC,A350-900,Corrective,Train d'atterrissage,2025-09-15,Sophie Bernard,14.1,12860.0,Termine,Remplacement amortisseur
+330,F-HRBB,B787-9,Inspection,Train d'atterrissage,2025-12-27,Nicolas Petit,2.9,7285.0,Planifie,Remplacement amortisseur
+331,F-HRBA,B787-9,Corrective,Train d'atterrissage,2025-12-04,Thomas Girard,11.0,14334.0,En cours,Inspection freins carbone
+332,F-GSQC,B777-300,Corrective,Train d'atterrissage,2025-08-16,Laura Fontaine,9.0,,En cours,Controle pneus
+333,F-HTYC,A350-900,Inspection,Train d'atterrissage,2025-10-04,Marc Lefevre,5.2,1753.0,Termine,Remplacement amortisseur
+334,F-HRBB,B787-9,AOG,Cabine,2025-11-11,Marc Lefevre,5.7,4980.0,Termine,Controle eclairage cabine
+335,F-GSQA,B777-300,Preventive,AVIONIQUE,2025-08-11,Amelie Rousseau,4.0,3336.0,Termine,Verification systeme de navigation
+336,F-GSQC,B777-300,Preventive,Hydraulique,2025-11-26,Julien Moreau,5.9,1923.0,Planifie,Remplacement joint
+337,F-HTYB,A350-900,Preventive,Cabine,2025-09-04,Amelie Rousseau,1.5,1921.0,Termine,Maintenance sieges
+338,F-HUVB,A350-900,preventive,Train d'atterrissage,2026-01-01,Marc Lefevre,6.0,4000.0,Termine,Controle systeme de freinage
+339,F-GSQA,B777-300,Inspection,HYDRAULIQUE,2025-10-17,Marc Lefevre,6.6,300.0,Termine,Remplacement joint
+340,F-GSQA,B777-300,Preventive,Fuselage,2025-09-14,Sophie Bernard,4.5,3475.0,Termine,Controle corrosion
+341,F-GKXB,A320-200,Corrective,Moteur,2025-07-30,Laura Fontaine,14.1,21563.0,Termine,Remplacement filtre a huile
+342,F-GKXC,A320-200,Preventive,Train d'atterrissage,2025-10-08,Claire Dubois,6.5,8320.0,Termine,Controle pneus
+343,F-HRBC,B787-9,Preventive,Hydraulique,2025-12-17,Amelie Rousseau,6.7,1802.0,Termine,Controle circuit hydraulique
+344,F-GKXA,A320-200,AOG,Cabine,2025-12-10,Marc Lefevre,5.7,5610.0,Planifie,Maintenance sieges
+345,F-HRBB,B787-9,Inspection,Train d'atterrissage,2025-10-28, Thomas Girard  ,1.0,3317.0,Termine,Inspection freins carbone
+346,F-HRBC,B787-9,Inspection,,04-10-2025,Nicolas Petit,1.0,1781.0,Termine,Verification oxygene passagers
+347,F-HRBA,B787-9,inspection,Hydraulique,2025-11-16,Amelie Rousseau,3.0,2019.0,Termine,Remplacement joint
+348,F-GSQC,B777-300,Preventive,Hydraulique,2025-08-16,Amelie Rousseau,3.6,4713.0,Termine,Controle circuit hydraulique
+349,F-HRBB,B787-9,Preventive,Cabine,2025-07-18,Claire Dubois,1.9,1338.0,Termine,Controle eclairage cabine
+350,F-HTYC,A350-900,Corrective,Fuselage,2025-11-10,Claire Dubois,14.3,9543.0,Termine,Inspection structurale
+351,F-GSQA,B777-300,Inspection,Train d'atterrissage,2025-07-11,Amelie Rousseau,3.4,3827.0,Termine,Controle pneus
+352,F-GKXB,A320-200,Preventive,TRAIN D'ATTERRISSAGE,2025-07-08,Thomas Girard,7.6,10649.0,Termine,Controle pneus
+353,F-HRBA,B787-9,Inspection,Avionique,2025-09-15,Sophie Bernard,1.3,35412.0,Planifie,Verification systeme de navigation
+354,F-GSQA,B777-300,Preventive,Fuselage,2025-11-21,Nicolas Petit,7.9,4713.0,Termine,Reparation revetement
+355,F-HTYC,A350-900,Inspection,Fuselage,2025-08-09,Sophie Bernard,4.1,2450.0,Termine,Inspection structurale
+356,F-GKXC,A320-200,Corrective,Hydraulique,2025-10-01,Marc Lefevre,7.4,8373.0,Termine,Remplacement joint
+357,F-HRBA,B787-9,Preventive,Fuselage,2025-11-28,Sophie Bernard,5.9,4785.0,Termine,Inspection structurale
+358,F-GKXB,A320-200,Preventive,Cabine,2025-07-15,Claire Dubois,2.5,1286.0,Termine,Verification oxygene passagers

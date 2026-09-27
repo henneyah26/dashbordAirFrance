@@ -1,0 +1,31 @@
+id,immatriculation,type_avion,type_maintenance,composant,date,technicien,duree_heures,cout,statut,commentaire
+1,F-HTYA,A350-900,Preventive,Moteur,2025-11-02,Marc Lefevre,7,11800,Termine,Controle periodique moteur Trent XWB
+2,F-HTYB,A350-900,Inspection,Avionique,2025-11-05,Claire Dubois,4,3100,Termine,Verification systeme de navigation
+3,F-HTYC,A350-900,Corrective,Train d'atterrissage,2025-11-08,Thomas Girard,13,17600,Termine,Remplacement amortisseur principal
+4,F-HTYH,A350-900,Preventive,Hydraulique,2025-11-11,Amelie Rousseau,6,4900,Termine,Controle circuit hydraulique
+5,F-HTYI,A350-900,Corrective,Moteur,2025-11-14,Marc Lefevre,21,31200,Termine,Remplacement module turbine Trent XWB
+6,F-HTYK,A350-900,Inspection,Fuselage,2025-11-17,Claire Dubois,5,2700,Termine,Inspection structurelle programmee
+7,F-HTYM,A350-900,Preventive,Avionique,2025-11-20,Thomas Girard,4,2500,Termine,Mise a jour logicielle FMS
+8,F-HTYR,A350-900,Corrective,Hydraulique,2025-11-23,Amelie Rousseau,9,8600,Termine,Fuite circuit hydraulique secondaire
+9,F-HTYT,A350-900,Preventive,Moteur,2025-11-26,Marc Lefevre,7,11500,Termine,Controle periodique moteur Trent XWB
+10,F-HUVB,A350-900,Inspection,Train d'atterrissage,2025-11-29,Claire Dubois,5,3000,Termine,Controle usure freins carbone
+11,F-HUVC,A350-900,Corrective,Avionique,2025-12-02,Thomas Girard,8,7100,Termine,Panne radar meteo
+12,F-HTYA,A350-900,Inspection,Hydraulique,2025-12-05,Amelie Rousseau,4,2200,Termine,Controle pression circuit principal
+13,F-HTYB,A350-900,Corrective,Moteur,2025-12-08,Marc Lefevre,17,23800,Termine,Remplacement aube de soufflante
+14,F-HTYC,A350-900,Preventive,Fuselage,2025-12-11,Claire Dubois,6,3300,Termine,Traitement anticorrosion
+15,F-HTYH,A350-900,Corrective,Train d'atterrissage,2025-12-14,Thomas Girard,11,9800,Termine,Remplacement pneu principal
+16,F-HTYI,A350-900,Inspection,Avionique,2025-12-17,Amelie Rousseau,3,1800,Termine,Verification systeme ACARS
+17,F-HTYK,A350-900,Corrective,Hydraulique,2025-12-20,Marc Lefevre,10,8900,Termine,Remplacement pompe hydraulique
+18,F-HTYM,A350-900,Preventive,Moteur,2025-12-23,Claire Dubois,7,12200,Termine,Controle periodique moteur Trent XWB
+19,F-HTYR,A350-900,Inspection,Fuselage,2025-12-26,Thomas Girard,5,2600,Termine,Inspection structurelle programmee
+20,F-HTYT,A350-900,Corrective,Avionique,2025-12-29,Amelie Rousseau,7,5700,Termine,Remplacement calculateur de vol
+21,F-HUVB,A350-900,Preventive,Train d'atterrissage,2026-01-01,Marc Lefevre,6,4000,Termine,Controle systeme de freinage
+22,F-HUVC,A350-900,Corrective,Moteur,2026-01-04,Claire Dubois,19,28600,Termine,Remplacement module compresseur
+23,F-HUVD,A350-900,Inspection,Avionique,2026-01-07,Thomas Girard,4,2300,En cours,Verification systeme de navigation
+24,F-HUVT,A350-900,Preventive,Hydraulique,2026-01-10,Amelie Rousseau,5,3500,En cours,Controle circuit hydraulique
+25,F-HTYA,A350-900,Corrective,Fuselage,2026-01-13,Marc Lefevre,9,6500,En cours,Reparation impact sur volet
+26,F-HTYB,A350-900,Preventive,Moteur,2026-01-16,Claire Dubois,7,11900,Planifie,Controle periodique moteur Trent XWB
+27,F-HTYC,A350-900,Inspection,Train d'atterrissage,2026-01-19,Thomas Girard,5,2800,Planifie,Controle usure freins carbone
+28,F-HTYH,A350-900,Corrective,Avionique,2026-01-22,Amelie Rousseau,8,6000,Planifie,Panne systeme de communication
+29,F-HTYI,A350-900,Preventive,Fuselage,2026-01-25,Marc Lefevre,6,3400,Planifie,Traitement anticorrosion
+30,F-HTYK,A350-900,Corrective,Moteur,2026-01-28,Claire Dubois,18,26900,Planifie,Remplacement aube de turbine
