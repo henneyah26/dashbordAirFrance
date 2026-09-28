@@ -115,8 +115,10 @@ def inject_css() -> None:
 
 
 def logo_base64() -> str:
-    with open(LOGO_PATH, "rb") as f:
-        return base64.b64encode(f.read()).decode()
+    for p in (APP_DIR / "assets" / "air_france_logo.jpg", APP_DIR / "air_france_logo.jpg"):
+        if p.exists():
+            return base64.b64encode(p.read_bytes()).decode()
+    return ""
 
 
 # ----------------------------------------------------------------------------
